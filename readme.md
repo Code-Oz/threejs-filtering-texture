@@ -1,4 +1,6 @@
-# Three.js Journey
+# From Three.js Journey maked by Bruno Simon
+
+Demo [here](https://flourishing-manatee-68cd50.netlify.app)
 
 ## MinFilter
 
